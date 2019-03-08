@@ -34,7 +34,7 @@
 
 <style scoped rel="stylesheet/sass" lang="sass">
 	.com-left
-		margin-top: 18px
+		margin-top: 19px
 
 	.page-children-right
 		position: relative
